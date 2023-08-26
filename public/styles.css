@@ -44,7 +44,7 @@ header{
 note{
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items:baseline;
 }
 note>div{
     background-color: white;
